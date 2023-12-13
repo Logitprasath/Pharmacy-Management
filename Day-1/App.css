@@ -1,0 +1,70 @@
+body {
+  background-color: #f8f8f8;
+  background-image: url("C:/Users/logit/Downloads/medical-infographic-banner-background-clinic-pharmacy-laboratory-test-and-research-healthcare-concept-backdrop-illustration-vector.jpg");
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.login-form {
+  max-width: 300px;
+  background-color: #fff;
+  padding: 50px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  color: #555;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 16px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #28a745;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  width: 100%;
+  cursor: pointer;
+  margin-bottom: 8px;
+}
+.last{
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  
+}
+
+
+button:hover {
+  background-color: #0da62ead;
+}
+
+
+
+a {
+  color: #0a06f1;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
