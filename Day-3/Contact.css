@@ -1,0 +1,29 @@
+/* ContactUs.css */
+
+.contact-us-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 150px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center; /* Add text-align for centering text */
+}
+
+.contact-us-heading {
+  font-size: 2em;
+  color: #333;
+}
+
+.contact-us-content {
+  line-height: 1.6;
+  margin-top: 10px;
+  color: #666;
+}
+
+.contact-details {
+  margin-top: 20px;
+}
+
+.contact-details p {
+  margin: 5px 0;
+}
